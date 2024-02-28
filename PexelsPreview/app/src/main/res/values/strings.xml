@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PexelsPreview</string>
+    <string name="search_hint">画像を検索する</string>
+    <string name="search_button">検索</string>
+</resources>
